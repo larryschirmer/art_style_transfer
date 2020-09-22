@@ -21,6 +21,7 @@ google-pasta==0.2.0
 grpcio==1.31.0
 h5py==2.10.0
 idna==2.10
+imageio==2.9.0
 ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
@@ -89,6 +90,7 @@ tensorflow-estimator==2.3.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
+tf-keras-vis==0.5.3
 threadpoolctl==2.1.0
 toml==0.10.1
 tornado==6.0.4
